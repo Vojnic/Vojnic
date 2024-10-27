@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello there 👋
+I was an adventurer like you once but then i took an arrow in the knee.
 <!--
 **Vojnic/Vojnic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
